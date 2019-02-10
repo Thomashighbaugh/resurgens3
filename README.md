@@ -48,3 +48,4 @@ This file was written in Markdown notation, an easy way of quickly formatting a 
 - Normalize - standardizing DOMs across browsers
 
 - The many designers and developers who I have borrowed design ideas and concepts from (too numerous to make individual)
+## Electric Tantra Design | TLH
