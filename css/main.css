@@ -492,7 +492,7 @@ Background
 ***************************************************************************************************************** */
 
 .bg-1 {
-  background-image: url("../images/enddays.png");
+  background: url("../images/background.png");
 }
 
 /* Header */
