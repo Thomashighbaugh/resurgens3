@@ -1,9 +1,9 @@
 $(document).ready(function() {
   // Logo
-  var $logo = $("#logo");
-  var $hellologo = $("#helloworld");
-  if (location.href.indexOf("#") != -1) {
-    if (location.href.substr(location.href.indexOf("#")) != "#about") {
+  const $logo = $("#logo");
+  const $3hellologo = $("#helloworld");
+  if (location.href.indexOf("#") !== -1) {
+    if (location.href.substr(location.href.indexOf("#")) !== "#about") {
       $logo.show();
     } else {
       $hellologo.show();
@@ -45,7 +45,7 @@ $(document).ready(function() {
       tabActiveClass: "active"
     })
     .bind("easytabs:midTransition", function(event, $clicked, $targetPanel) {
-      if ($targetPanel.selector == "#resume") {
+      if ($targetPanel.selector === "#resume") {
         animMeter();
       }
     });

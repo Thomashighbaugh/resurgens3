@@ -89,13 +89,13 @@ h4,
 h5,
 h6 {
   font-family: "Righteous", monospace;
-  color: #b466a6;
+  color: #00006b;
   background-color: #ffffff;
 }
 h1 {
   font-size: 4.75em;
   line-height: 1.2em;
-  color: #b466a6;
+  color: #00006b;
   margin: 0 0 0.4em;
 } /* 60px / 72px */
 h2 {
@@ -305,7 +305,7 @@ a:focus,
 a:active {
   text-decoration: none;
   border: none;
-  background-color: #b466a6;
+  background-color: #00006b;
   color: #000000;
 }
 /* MEDIA */
@@ -501,7 +501,7 @@ Background
 }
 #header #logo {
   text-align: center;
-  color: #b466a6;
+  color: #00006b;
 
   display: none;
 }
@@ -512,7 +512,7 @@ Background
 }
 #header h4 {
   margin-bottom: 0;
-  color: #b466a6;
+  color: #d400d4;
 }
 #header .visible {
   opacity: 1;
@@ -533,7 +533,7 @@ etabs
   padding: 30px 20px;
   background: #fff;
   border: 1px solid #f1f1f1;
-  box-shadow: 0 6px #b466a6;
+  box-shadow: 0 6px #00006b;
   border-radius: 0 0 4px 4px;
 }
 
@@ -574,7 +574,7 @@ etabs
 
 .tab a.active {
   padding-top: 10px;
-  color: #b466a6;
+  color: #00006b;
 }
 .tab a i {
   font-size: 16px;
@@ -621,7 +621,7 @@ info
 }
 .info h4,
 #header h4 {
-  color: #b466a6;
+  color: #d400d4;
   margin-bottom: 2em;
 }
 .info h6,
@@ -629,7 +629,7 @@ info
   text-transform: uppercase;
   letter-spacing: 2px;
   margin-bottom: 0.3em;
-  color: #b466a6;
+  color: #00006b;
 }
 /*******************************************************************************************************************
 Main links
@@ -681,7 +681,7 @@ Main links
 .item-box .item-data p {
   margin: 0;
   font-size: 12px;
-  color: #b466a6;
+  color: #00006b;
   text-decoration-style: double;
 }
 
@@ -810,7 +810,7 @@ buttons
 
 .label-info[href]:hover,
 .label-info[href]:focus {
-  background-color: #b466a6;
+  background-color: #00006b;
 }
 .label[href]:hover,
 .label[href]:focus {
@@ -838,12 +838,12 @@ buttons
 }
 
 .label-success {
-  background-color: #b466a6;
+  background-color: #00006b;
 }
 
 .label-success[href]:hover,
 .label-success[href]:focus {
-  background-color: #b466a6;
+  background-color: #00006b;
 }
 
 .label-warning {
@@ -896,7 +896,7 @@ meter
 }
 
 .emerald > span {
-  background-color: #b466a6;
+  background-color: #00006b;
 }
 
 .asbestos > span {
