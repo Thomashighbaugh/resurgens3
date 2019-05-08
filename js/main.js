@@ -20,6 +20,7 @@ $(document).ready(function() {
     $logo.slideUp("slow");
     $hellologo.slideDown("slow");
   });
+  //animations for the skill meters
   function animMeter() {
     $(".meter > span").each(function() {
       $(this)
@@ -34,7 +35,7 @@ $(document).ready(function() {
     });
   }
   animMeter();
-
+// create tabs for organizing content
   $("#tab-container")
     .easytabs({
       animate: true,
